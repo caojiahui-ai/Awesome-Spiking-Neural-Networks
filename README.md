@@ -23,8 +23,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - ✅Direct Training High-Performance Deep Spiking Neural Networks: A Review of Theories and Methods (**Frontiers in Neuroscience 2024**). [[paper]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1383844/full) [[arxiv](https://arxiv.org/abs/2405.04289v2)] 
 
 **AAAI, ICLR, Frontiers in Neuroscience, CVPR, ICML, IJCAI**
-- ❎✔❌EC-SNN: Splitting Deep Spiking Neural Networks on Edge Devices (**IJCAI 2024**). [[code](https://github.com/AmazingDD/EC-SNN)] 
-- [-]One-step Spiking Transformer with a Linear Complexity (**IJCAI 2024**).
+- ❎EC-SNN: Splitting Deep Spiking Neural Networks on Edge Devices (**IJCAI 2024**). [[code](https://github.com/AmazingDD/EC-SNN)] 
+- One-step Spiking Transformer with a Linear Complexity (**IJCAI 2024**).
 - TIM: An Efficient Temporal Interaction Module for Spiking Transformer (**IJCAI 2024**). [[paper](https://arxiv.org/pdf/2401.11687)] [[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM)] 
 - Learning a Spiking Neural Network for Efficient Image Deraining (**IJCAI 2024**). [[code](https://github.com/MingTian99/ESDNet)] 
 - LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization (**IJCAI 2024**). [[paper](https://arxiv.org/pdf/2401.14652)] 
@@ -59,7 +59,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks (**ICLR 2024**). [[paper](https://arxiv.org/pdf/2402.11984.pdf)] [[code](https://github.com/pkuxmq/HLOP-SNN)]
 - A Progressive Training Framework for Spiking Neural Networks with Learnable Multi-hierarchical Model (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=g52tgL8jy6)] [[code](https://github.com/hzc1208/STBP_LMH)]
 - LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units (**ICLR 2024**). [[paper](https://arxiv.org/pdf/2402.04882.pdf)] [[code](https://github.com/zeyuliu1037/LMUFormer)]
-- [√]Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=1SIBN5Xyw7)] [[code](https://github.com/BICLab/Spike-Driven-Transformer-V2)]
+- ✅Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=1SIBN5Xyw7)] [[code](https://github.com/BICLab/Spike-Driven-Transformer-V2)]
 - Can we get the best of both Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision? (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=lGUyAuuTYZ)] [[code](https://github.com/godatta/Ultra-Low-Latency-SNN)]
 - A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks (**ICLR 2024**).  [[paper](https://openreview.net/pdf?id=LnLySuf1vp)] [[code](https://github.com/EdisonLeeeee/SpikeGCL)]
 - Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks (**AAAI 2024**).  [[paper](https://arxiv.org/pdf/2312.06372.pdf)] [[code](https://github.com/yfguo91/Ternary-Spike)]
@@ -76,8 +76,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 **Arxiv**
 - Q-SNNs: Quantized Spiking Neural Networks. [[paper](https://arxiv.org/pdf/2406.13672)]
 - Scalable MatMul-free Language Modeling. [[paper](https://arxiv.org/pdf/2406.02528)] [[code](https://github.com/ridgerchu/matmulfreellm)]
-- [√]QKFormer: Hierarchical Spiking Transformer using Q-K Attention. [[paper](https://arxiv.org/pdf/2403.16552.pdf)] [[code](https://github.com/zhouchenlin2096/QKFormer)]
-- [√]Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket. [[paper](https://arxiv.org/pdf/2401.02020.pdf)] [[code](https://github.com/ZK-Zhou/spikformer)]
+- ✅QKFormer: Hierarchical Spiking Transformer using Q-K Attention. [[paper](https://arxiv.org/pdf/2403.16552.pdf)] [[code](https://github.com/zhouchenlin2096/QKFormer)]
+- ✅Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket. [[paper](https://arxiv.org/pdf/2401.02020.pdf)] [[code](https://github.com/ZK-Zhou/spikformer)]
 - SpikeNAS: A Fast Memory-Aware Neural Architecture Search Framework for Spiking Neural Network Systems. [[paper](https://arxiv.org/pdf/2402.11322.pdf)]
 - Astrocyte-Enabled Advancements in Spiking Neural Networks for Large Language Modeling. [[paper](https://arxiv.org/pdf/2312.07625v2.pdf)]
 
@@ -88,8 +88,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Direct Learning-Based Deep Spiking Neural Networks: A Review (**Frontiers in Neuroscience 2023**). [[paper](https://arxiv.org/pdf/2305.19725.pdf)]
 
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, NeurIPS, TPAMI, Science Advances**
-- SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). [[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] [[code](https://github.com/fangwei123456/spikingjelly)]
-- [√]Spike-driven Transformer [[paper](https://arxiv.org/pdf/2307.01694.pdf)] [[code](https://github.com/BICLab/Spike-Driven-Transformer)]
+- ❎SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). [[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] [[code](https://github.com/fangwei123456/spikingjelly)]
+- ✅Spike-driven Transformer [[paper](https://arxiv.org/pdf/2307.01694.pdf)] [[code](https://github.com/BICLab/Spike-Driven-Transformer)]
 - Parallel Spiking Neurons with High Efficiency and Long-term Dependencies Learning Ability (**NeurIPS 2023**). [[paper](https://arxiv.org/abs/2304.12760)] [[code](https://github.com/fangwei123456/Parallel-Spiking-Neuron)]
 - Temporal Conditioning Spiking Latent Variable Models of the Neural Response to Natural Visual Scenes (**NeurIPS 2023**). [[paper](https://arxiv.org/pdf/2306.12045.pdf)]
 - SEENN: Towards Temporal Spiking Early Exit Neural Networks (**NeurIPS 2023**). [[paper](https://openreview.net/pdf?id=mbaN0Y0QTw)]
@@ -122,7 +122,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Heterogeneous neuronal and synaptic dynamics for spike-efficient unsupervised learning: Theory and design principles (**ICLR 2023**).[[paper](https://arxiv.org/pdf/2302.11618.pdf)]
 - Spiking Convolutional Neural Networks for Text Classification (**ICLR 2023**) .[[paper](https://openreview.net/pdf?id=pgU3k7QXuz0)]
 - Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes (**ICLR 2023**).[[paper](https://arxiv.org/pdf/2302.10685.pdf)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
-- [√]Spikformer: When Spiking Neural Network Meets Transformer (**ICLR 2023**) .[[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
+- ✅Spikformer: When Spiking Neural Network Meets Transformer (**ICLR 2023**) .[[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
 - A Unified Framework of Soft Threshold Pruning (**ICLR 2023**). [[paper](https://openreview.net/forum?id=cCFqcrq0d8)] [[code](https://github.com/Yanqi-Chen/LATS)]
 - Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes (**ICLR 2023**). [[paper](https://openreview.net/forum?id=PFbzoWZyZRX)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
 - Reducing ANN-SNN Conversion Error through Residual Membrane Potential (**AAAI 2023**). [[paper](https://arxiv.org/abs/2302.02091)] [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
