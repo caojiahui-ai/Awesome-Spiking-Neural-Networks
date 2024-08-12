@@ -43,8 +43,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/34194)]
 - Are Conventional SNNs Really Efficient? A Perspective from Network Quantization  (**CVPR 2024**). [[paper](https://arxiv.org/pdf/2311.10802)]
 - SFOD: Spiking Fusion Object Detector (**CVPR 2024**). [[paper](https://arxiv.org/pdf/2403.15192)] [[code](https://github.com/yimeng-fan/SFOD)]
-- SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (**CVPR 2024**). [[paper](https://arxiv.org/abs/2403.14302)] [[code](https://github.com/xyshi2000/SpikingResformer)]
-- SGLFormer: Spiking Global-Local-Fusion Transformer with high performance (**Frontiers in Neuroscience 2024**).[[paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1371290/full)] [[code](https://github.com/ZhangHanN1/SGLFormer)]
+-  ✅SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (**CVPR 2024**). [[paper](https://arxiv.org/abs/2403.14302)] [[code](https://github.com/xyshi2000/SpikingResformer)]
+-  ✅SGLFormer: Spiking Global-Local-Fusion Transformer with high performance (**Frontiers in Neuroscience 2024**).[[paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1371290/full)] [[code](https://github.com/ZhangHanN1/SGLFormer)]
 - Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework  (**ICLR 2024**). [[paper](https://openreview.net/forum?id=eoSeaK4QJo&referrer=%5Bthe%20profile%20of%20Zecheng%20Hao%5D(%2Fprofile%3Fid%3D~Zecheng_Hao1))]
 - Online Stabilization of Spiking Neural Networks  (**ICLR 2024**). [[paper](https://openreview.net/forum?id=CIj1CVbkpr)]
 - SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition (**ICLR 2024**). [[paper](https://arxiv.org/pdf/2310.07189.pdf)]
@@ -133,7 +133,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition(**AAAI 2023**). [[paper](https://arxiv.org/pdf/2302.01194.pdf)] 
 
 **Arxiv**
-- Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network [[paper](https://arxiv.org/abs/2304.11954)] [[code](https://github.com/zhouchenlin2096/Spikingformer)]
+-  ✅Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network [[paper](https://arxiv.org/abs/2304.11954)] [[code](https://github.com/zhouchenlin2096/Spikingformer)]
 - Enhancing the Performance of Transformer-based Spiking Neural Networks by Improved Downsampling with Precise Gradient Backpropagation [[paper](https://arxiv.org/abs/2305.05954)] [[code](https://github.com/zhouchenlin2096/Spikingformer-CML)]
 - Training Full Spike Neural Networks via Auxiliary Accumulation Pathway [[paper](https://arxiv.org/pdf/2301.11929.pdf)]
 - MSS-DepthNet: Depth Prediction with Multi-Step Spiking Neural Network [[paper](https://arxiv.org/abs/2211.12156)]
